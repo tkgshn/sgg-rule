@@ -13,6 +13,19 @@
 SGGでは`sugokunaritai.dev`というドメインを取得しているため、SGGメンバーでサービスをリリースする際は`sugokunaritai.dev`のサブドメインを使用できます。
 使いたい方は`@しんぶんぶん`に連絡してください。
 
+### ロゴセット
+
+SGG活動において必要不可欠なロゴやスライド背景を共有しています。[こちら](https://github.com/sugokunaritai-gakusei-group/src)
+
+### 活動先
+参加していない物があれば言ってもらえると共有します
+- slack
+- Discord
+- QiitaOrg執筆
+- Twitter運営
+- YouTube運営
+- gitHubOrgリポ
+
 ## QiitaのOrganization
 
 SGGではQiitaでOrganizationを作ってみんなで記事を投稿しています。結構頻繁に週間ランキングに載ったりします。
