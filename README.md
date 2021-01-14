@@ -122,6 +122,9 @@ SGG公式サイト実装・開発に関する議論の場所。Nuxt.jsで実装�
 ## Twitter 
 公式Twitterをやっています[@sggorg](https://twitter.com/sggorg)
 
+## YouTube
+公式YouTubeをやっています[チャンネル登録](https://www.youtube.com/channel/UChVaX0bWn3W-X53FxQoxLBw)
+
 ### 更新履歴
 
 作成2020年5月9日
