@@ -119,6 +119,8 @@ SGG公式サイト実装・開発に関する議論の場所。Nuxt.jsで実装�
 毎週土曜の夜に不定期でもくもく会を開催しています。
 それ以外にも自由に集まって喋っています。
 
+## Twitter 
+公式Twitterをやっています[@sggorg](https://twitter.com/sggorg)
 
 ### 更新履歴
 
