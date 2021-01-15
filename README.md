@@ -13,6 +13,19 @@
 SGGでは`sugokunaritai.dev`というドメインを取得しているため、SGGメンバーでサービスをリリースする際は`sugokunaritai.dev`のサブドメインを使用できます。
 使いたい方は`@しんぶんぶん`に連絡してください。
 
+### ロゴセット
+
+SGG活動において必要不可欠なロゴやスライド背景を共有しています。[こちら](https://github.com/sugokunaritai-gakusei-group/src)
+
+### 活動先
+参加していない物があれば言ってもらえると共有します
+- slack
+- Discord
+- QiitaOrg執筆
+- Twitter運営
+- YouTube運営
+- gitHubOrgリポ
+
 ## QiitaのOrganization
 
 SGGではQiitaでOrganizationを作ってみんなで記事を投稿しています。結構頻繁に週間ランキングに載ったりします。
@@ -102,6 +115,10 @@ SGG公式サイト実装・開発に関する議論の場所。Nuxt.jsで実装�
 
 [SGGチャンネル](https://www.youtube.com/channel/UChVaX0bWn3W-X53FxQoxLBw)の運営方針や活動について興味ある人が議論していく場所。
 
+
+#### #しんぶんぶん
+このコミュニティの創設者のひとりであるしんぶんぶんをリサーチするチャンネル。gitHubの同行やTwitterの同行を通知する
+
 ### 新規チャンネル作成について
 
 新規チャンネル作成は自由です。どんどん新たな分野を開拓してください。
@@ -110,6 +127,16 @@ SGG公式サイト実装・開発に関する議論の場所。Nuxt.jsで実装�
 チャンネル名は絶対にケバブケースで作成してください。それ以外は問答無用で削除されます。
 
 また、新規チャンネルを作成した場合はこのREADMEに追記してプルリクを投げてください。
+
+## discord
+毎週土曜の夜に不定期でもくもく会を開催しています。
+それ以外にも自由に集まって喋っています。
+
+## Twitter 
+公式Twitterをやっています[@sggorg](https://twitter.com/sggorg)
+
+## YouTube
+公式YouTubeをやっています[チャンネル登録](https://www.youtube.com/channel/UChVaX0bWn3W-X53FxQoxLBw)
 
 ### 更新履歴
 
