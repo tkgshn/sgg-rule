@@ -55,66 +55,15 @@ Slackに入ったらまず`#introduction`で自己紹介をしてください。
 
 雑談チャンネルです。だいたいなんでもあり。
 
-#### #infomation
-
+#### #infomation（デフォルト）
 イベント情報などを通知してくれるところです。
 
-#### #vuejs
-
-Vue.jsについて語り合うチャンネルです。もちろんNuxtもおっけー。
-
-#### #network
-
-ネットワークについて語り合うチャンネルです。マスタリングTCP/IPで興奮できる人は是非参加してみてください。
-
-#### #web
-
-web全般について語り合うチャンネルです。
-
 #### #qiita
-
 Qiita執筆チャンネルです。SGGメンバーが投稿したらここに通知が来るようになっています。
-
-#### #low-layer
-
-低レイヤについて語り合うチャンネルです。こわいせかい。
-
-#### #english
-
-英語について語り合うチャンネルです。もはや技術関係なし。
-
-#### #español
-
-なぞ。
-
-#### #aws
-
-AWSについて語り合うチャンネル。競合サービスの話をすると検閲により削除される場合があります。
-
-#### #line-api
-
-LINEのAPIについて語り合う場所
-
-#### #security
-
-セキュリティについて語り合う場所。ここにいる人はだいたい徳丸本が愛読書（偏見）。
-
-#### #sgg-rule
-
-SGGのルール改定について話し合う場所。あと、sgg-ruleリポジトリに更新があると通知が飛んでくる。
 
 #### #official-site
 
 SGG公式サイト実装・開発に関する議論の場所。Nuxt.jsで実装予定
-
-#### #ssi
-
-[SSI(Self Sovereign Identity)](https://sovrin.org/faq/what-is-self-sovereign-identity/)について話す場所。[DID](https://www.w3.org/TR/did-core/)や[VC](https://www.w3.org/TR/vc-data-model/)についての話がメインなので、一緒に論文を読みましょう！
-
-#### #youtube
-
-[SGGチャンネル](https://www.youtube.com/channel/UChVaX0bWn3W-X53FxQoxLBw)の運営方針や活動について興味ある人が議論していく場所。
-
 
 #### #しんぶんぶん
 このコミュニティの創設者のひとりであるしんぶんぶんをリサーチするチャンネル。gitHubの同行やTwitterの同行を通知する
